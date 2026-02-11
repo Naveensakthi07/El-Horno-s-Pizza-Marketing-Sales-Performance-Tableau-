@@ -2,6 +2,7 @@
 📌 Project Overview
 
 This project evaluates sales performance and marketing effectiveness for a pizza restaurant to understand customer preferences and high-performing menu items.
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/9f9f82f2-1589-47c5-89b5-91f4aeb51bff" />
 
 🎯 Objectives
 
