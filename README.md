@@ -1,2 +1,24 @@
-# El-Horno-s-Pizza-Marketing-Sales-Performance-Tableau-
-Tableau-based analysis of pizza sales and marketing performance to identify top menu items, customer preferences, and revenue trends.
+🍕 El Horno’s Pizza – Marketing & Sales Performance (Tableau)
+📌 Project Overview
+
+This project evaluates sales performance and marketing effectiveness for a pizza restaurant to understand customer preferences and high-performing menu items.
+
+🎯 Objectives
+
+Analyze sales by product category and time period
+
+Evaluate impact of marketing campaigns
+
+Identify popular and underperforming menu items
+
+🔹 Key Insights
+
+Created visual dashboards for sales and marketing analysis
+
+Highlighted top-selling pizzas and categories
+
+Identified trends to support promotional planning
+
+🛠 Tools Used
+
+Tableau
