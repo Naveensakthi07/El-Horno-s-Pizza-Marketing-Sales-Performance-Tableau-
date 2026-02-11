@@ -25,4 +25,4 @@ Identified trends to support promotional planning
 Tableau
 
 # Links
-https://public.tableau.com/app/profile/naveen.sakthi2034/viz/EI-Homrnospizza/Sheet5?publish=yes
+https://public.tableau.com/app/profile/naveen.sakthi2034/viz/EI-Homrnospizza/Dashboard1?publish=yes
